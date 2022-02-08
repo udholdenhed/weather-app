@@ -11,3 +11,4 @@
     - `go get github.com/fatih/color`
 
 ## License
+Developed by udholdenhed(Nazar) as open source software under the [MIT License](https://github.com/udholdenhed/golang-weather-app/blob/master/LICENSE).
